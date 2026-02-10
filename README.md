@@ -24,7 +24,7 @@ I'm a career changer looking for an apprenticeship as a data technician. I have 
 <p> 
 This is the sql project where I have analysed the world database which includes three tables linked together.
 click on the link below to see further datails and the code
-  <a href="see more"<>/a>
+  <a href="https://github.com/HarryRichards2005/world-database">see more"</a>
 </p>
 
 ### Badges
