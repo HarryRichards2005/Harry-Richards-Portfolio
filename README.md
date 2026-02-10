@@ -26,30 +26,33 @@ This is the sql project where I have analysed the world database which includes 
 click on the link below to see further details and the code
   <a href="https://github.com/HarryRichards2005/world-database">see more</a>
 </p>
+
 ### Excel Project
 <p>
   This is the Excel Project where I have analysed a Bike Sales Spreadsheet which includes different analysis.
 click on the link below to see further details 
-  <a href="">see more</a>
+  <a href="#">see more</a>
 </p>
 
 ### Python Project
 <p>
   This is the Python Project where I have analysed a students csv file and analysed it to look at different exam results and pass rates.
   click on the link below to see further details
-    <a href="">see more</a>
+    <a href="#">see more</a>
 </p>
+
 ### Tableau Project
 <p>
   This is the Tableau Project where I look at a world health data set and conducted analysis such as creating dashboards to look at global health indicators and cancer rates in men and women.
   click on the link below to see further details
-    <a href="">see more</a>
+    <a href="#">see more</a>
 </p>
+
 # PowerBI Project 
 <p>
    This is the PowerBI project where i look at sales and profit margin by month and conducted analysis where I looked at sum of sales by continent and category of product.
   click on the link below to see further details
-      <a href="">see more</a>
+      <a href="#">see more</a>
 </p>
 
 
