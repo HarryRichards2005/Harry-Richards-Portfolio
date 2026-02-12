@@ -20,39 +20,39 @@ I'm a career changer looking for an apprenticeship as a data technician. I have 
 <p align="left"> <a href="https://www.github.com/https://github.com/HarryRichards2005/Harry-Richards-Portfolio" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
 # Projects Completed
-### SQL Project
+<h2>SQL Project</h2> 
 <p> 
 This is the sql project where I have analysed the world database which includes three tables linked together.
 click on the link below to see further details and the code
   <a href="https://github.com/HarryRichards2005/world-database">see more</a>
 </p>
 
-### Excel Project
+<h2>Excel Project</h2>
 <p>
   This is the Excel Project where I have analysed a Bike Sales Spreadsheet which includes different analysis.
 click on the link below to see further details 
-  <a href="#">see more</a>
+  <a href="https://github.com/HarryRichards2005/Bike-Sales-Excel-Project">see more</a>
 </p>
 
-### Python Project
+<h2>Python Project</h2>
 <p>
   This is the Python Project where I have analysed a students csv file and analysed it to look at different exam results and pass rates.
   click on the link below to see further details
-    <a href="#">see more</a>
+    <a href="https://github.com/HarryRichards2005/Student-csv-Python-Project">see more</a>
 </p>
 
-### Tableau Project
+<h2>Tableau Project</h2>
 <p>
   This is the Tableau Project where I look at a world health data set and conducted analysis such as creating dashboards to look at global health indicators and cancer rates in men and women.
   click on the link below to see further details
-    <a href="#">see more</a>
+    <a href="https://github.com/HarryRichards2005/World-Health-Data-Tableau">see more</a>
 </p>
 
-# PowerBI Project 
+<h2>PowerBI Project</h2>
 <p>
    This is the PowerBI project where i look at sales and profit margin by month and conducted analysis where I looked at sum of sales by continent and category of product.
   click on the link below to see further details
-      <a href="#">see more</a>
+      <a href="https://github.com/HarryRichards2005/Sales-and-Profit-Margin-PowerBI-Project">see more</a>
 </p>
 
 
