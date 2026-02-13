@@ -53,6 +53,10 @@ click on the link below to see further details
    This is the PowerBI project where i look at sales and profit margin by month and conducted analysis where I looked at sum of sales by continent and category of product.
   click on the link below to see further details
       <a href="https://github.com/HarryRichards2005/Sales-and-Profit-Margin-PowerBI-Project">see more</a>
+
+<h2>Microsoft Azure Project</h2>
+Click on the link to see further details
+<a>https://github.com/HarryRichards2005/Microsoft-Azure-Cloud-Computing</a>
 </p>
 
 
