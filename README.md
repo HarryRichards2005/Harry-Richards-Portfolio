@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Level 3 Data Technician Bootcamp
 --------------------------------
 
-I'm a career changer looking for an apprenticeship as a data technician. I have discovered a passion for working with data, finding solutions, and telling stories to make informed decisions. I am currently working on the Leep Talent Level 3 data bootcamp which is helping me to develop skills in Excel, Tableau, PowerBI, and SQL.
+I'm a career changer looking for an apprenticeship as a data technician. I have discovered a passion for working with data, finding solutions, and telling stories to make informed decisions. I am currently working on the Leep Talent Level 3 data bootcamp which is helping me to develop skills in Excel, Tableau, PowerBI, SQL, Python, and Microsoft Azure.
 
 * 🌍  I'm based in Oxfordshire
 * 🖥️  See my portfolio at [Harry Richards Portfolio](https://sites.google.com/view/harryrichards/home)
